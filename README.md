@@ -1,2 +1,2 @@
-# project1
+# Understanding Git & Github
 This is my first Git Resository
