@@ -1,2 +1,2 @@
 # Understanding Git & Github
-This is my first Git Resository
+This is my first Git Resositoryg.
